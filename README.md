@@ -1,8 +1,16 @@
 # AIP
 
+
 **AIP 公式配布リポジトリ**
 
 AIPは、SNS投稿・企画・分析などをAIで支援するWindows向けデスクトップアプリケーションです。
+
+<p align="center">
+  <img src="./images/sns27.png" alt="AIP SNS投稿画面" width="1000">
+</p>
+
+> 汎用AIはプロンプトから始まる。  
+> AIPは業務から始まる。
 
 このリポジトリは、STARTLINEが提供する **AIP公式インストーラーの配布専用リポジトリ** です。
 
